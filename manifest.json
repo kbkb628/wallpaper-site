@@ -2,6 +2,294 @@
  "site": "每日壁纸库",
  "items": [
   {
+   "id": "J8",
+   "thumb": "img/thumb/J8.webp",
+   "file": "img/full/J8.jpg",
+   "group": "J",
+   "groupName": "粉色系金字",
+   "date": "2026-10-27",
+   "title": "万事如意"
+  },
+  {
+   "id": "J7",
+   "thumb": "img/thumb/J7.webp",
+   "file": "img/full/J7.jpg",
+   "group": "J",
+   "groupName": "粉色系金字",
+   "date": "2026-10-27",
+   "title": "花开富贵"
+  },
+  {
+   "id": "J6",
+   "thumb": "img/thumb/J6.webp",
+   "file": "img/full/J6.jpg",
+   "group": "J",
+   "groupName": "粉色系金字",
+   "date": "2026-10-27",
+   "title": "好运连连"
+  },
+  {
+   "id": "J5",
+   "thumb": "img/thumb/J5.webp",
+   "file": "img/full/J5.jpg",
+   "group": "J",
+   "groupName": "粉色系金字",
+   "date": "2026-10-27",
+   "title": "前程似锦"
+  },
+  {
+   "id": "J4",
+   "thumb": "img/thumb/J4.webp",
+   "file": "img/full/J4.jpg",
+   "group": "J",
+   "groupName": "粉色系金字",
+   "date": "2026-10-27",
+   "title": "喜上眉梢"
+  },
+  {
+   "id": "J3",
+   "thumb": "img/thumb/J3.webp",
+   "file": "img/full/J3.jpg",
+   "group": "J",
+   "groupName": "粉色系金字",
+   "date": "2026-10-27",
+   "title": "福气满满"
+  },
+  {
+   "id": "J2",
+   "thumb": "img/thumb/J2.webp",
+   "file": "img/full/J2.jpg",
+   "group": "J",
+   "groupName": "粉色系金字",
+   "date": "2026-10-27",
+   "title": "心想事成"
+  },
+  {
+   "id": "J1",
+   "thumb": "img/thumb/J1.webp",
+   "file": "img/full/J1.jpg",
+   "group": "J",
+   "groupName": "粉色系金字",
+   "date": "2026-10-27",
+   "title": "财源滚滚"
+  },
+  {
+   "id": "I8",
+   "thumb": "img/thumb/I8.webp",
+   "file": "img/full/I8.jpg",
+   "group": "I",
+   "groupName": "单主体加字条",
+   "date": "2026-10-27",
+   "title": "大吉大利"
+  },
+  {
+   "id": "I7",
+   "thumb": "img/thumb/I7.webp",
+   "file": "img/full/I7.jpg",
+   "group": "I",
+   "groupName": "单主体加字条",
+   "date": "2026-10-27",
+   "title": "年年有余"
+  },
+  {
+   "id": "I6",
+   "thumb": "img/thumb/I6.webp",
+   "file": "img/full/I6.jpg",
+   "group": "I",
+   "groupName": "单主体加字条",
+   "date": "2026-10-27",
+   "title": "诸事顺遂"
+  },
+  {
+   "id": "I5",
+   "thumb": "img/thumb/I5.webp",
+   "file": "img/full/I5.jpg",
+   "group": "I",
+   "groupName": "单主体加字条",
+   "date": "2026-10-27",
+   "title": "旺旺来福"
+  },
+  {
+   "id": "I4",
+   "thumb": "img/thumb/I4.webp",
+   "file": "img/full/I4.jpg",
+   "group": "I",
+   "groupName": "单主体加字条",
+   "date": "2026-10-27",
+   "title": "事事如意"
+  },
+  {
+   "id": "I3",
+   "thumb": "img/thumb/I3.webp",
+   "file": "img/full/I3.jpg",
+   "group": "I",
+   "groupName": "单主体加字条",
+   "date": "2026-10-27",
+   "title": "一路连升"
+  },
+  {
+   "id": "I2",
+   "thumb": "img/thumb/I2.webp",
+   "file": "img/full/I2.jpg",
+   "group": "I",
+   "groupName": "单主体加字条",
+   "date": "2026-10-27",
+   "title": "招财进宝"
+  },
+  {
+   "id": "I1",
+   "thumb": "img/thumb/I1.webp",
+   "file": "img/full/I1.jpg",
+   "group": "I",
+   "groupName": "单主体加字条",
+   "date": "2026-10-27",
+   "title": "马到成功"
+  },
+  {
+   "id": "H8",
+   "thumb": "img/thumb/H8.webp",
+   "file": "img/full/H8.jpg",
+   "group": "H",
+   "groupName": "配色时钟型",
+   "date": "2026-10-27",
+   "title": "从容"
+  },
+  {
+   "id": "H7",
+   "thumb": "img/thumb/H7.webp",
+   "file": "img/full/H7.jpg",
+   "group": "H",
+   "groupName": "配色时钟型",
+   "date": "2026-10-27",
+   "title": "万事大吉"
+  },
+  {
+   "id": "H6",
+   "thumb": "img/thumb/H6.webp",
+   "file": "img/full/H6.jpg",
+   "group": "H",
+   "groupName": "配色时钟型",
+   "date": "2026-10-27",
+   "title": "心想事成"
+  },
+  {
+   "id": "H5",
+   "thumb": "img/thumb/H5.webp",
+   "file": "img/full/H5.jpg",
+   "group": "H",
+   "groupName": "配色时钟型",
+   "date": "2026-10-27",
+   "title": "顺遂"
+  },
+  {
+   "id": "H4",
+   "thumb": "img/thumb/H4.webp",
+   "file": "img/full/H4.jpg",
+   "group": "H",
+   "groupName": "配色时钟型",
+   "date": "2026-10-27",
+   "title": "平安"
+  },
+  {
+   "id": "H3",
+   "thumb": "img/thumb/H3.webp",
+   "file": "img/full/H3.jpg",
+   "group": "H",
+   "groupName": "配色时钟型",
+   "date": "2026-10-27",
+   "title": "好运"
+  },
+  {
+   "id": "H2",
+   "thumb": "img/thumb/H2.webp",
+   "file": "img/full/H2.jpg",
+   "group": "H",
+   "groupName": "配色时钟型",
+   "date": "2026-10-27",
+   "title": "福气"
+  },
+  {
+   "id": "H1",
+   "thumb": "img/thumb/H1.webp",
+   "file": "img/full/H1.jpg",
+   "group": "H",
+   "groupName": "配色时钟型",
+   "date": "2026-10-27",
+   "title": "静心"
+  },
+  {
+   "id": "G8",
+   "thumb": "img/thumb/G8.webp",
+   "file": "img/full/G8.jpg",
+   "group": "G",
+   "groupName": "标签贴纸拼贴",
+   "date": "2026-10-27",
+   "title": "岁岁平安"
+  },
+  {
+   "id": "G7",
+   "thumb": "img/thumb/G7.webp",
+   "file": "img/full/G7.jpg",
+   "group": "G",
+   "groupName": "标签贴纸拼贴",
+   "date": "2026-10-27",
+   "title": "财源滚滚"
+  },
+  {
+   "id": "G6",
+   "thumb": "img/thumb/G6.webp",
+   "file": "img/full/G6.jpg",
+   "group": "G",
+   "groupName": "标签贴纸拼贴",
+   "date": "2026-10-27",
+   "title": "心想事成"
+  },
+  {
+   "id": "G5",
+   "thumb": "img/thumb/G5.webp",
+   "file": "img/full/G5.jpg",
+   "group": "G",
+   "groupName": "标签贴纸拼贴",
+   "date": "2026-10-27",
+   "title": "万事胜意"
+  },
+  {
+   "id": "G4",
+   "thumb": "img/thumb/G4.webp",
+   "file": "img/full/G4.jpg",
+   "group": "G",
+   "groupName": "标签贴纸拼贴",
+   "date": "2026-10-27",
+   "title": "平安喜乐"
+  },
+  {
+   "id": "G3",
+   "thumb": "img/thumb/G3.webp",
+   "file": "img/full/G3.jpg",
+   "group": "G",
+   "groupName": "标签贴纸拼贴",
+   "date": "2026-10-27",
+   "title": "好运连连"
+  },
+  {
+   "id": "G2",
+   "thumb": "img/thumb/G2.webp",
+   "file": "img/full/G2.jpg",
+   "group": "G",
+   "groupName": "标签贴纸拼贴",
+   "date": "2026-10-27",
+   "title": "喜至福来"
+  },
+  {
+   "id": "G1",
+   "thumb": "img/thumb/G1.webp",
+   "file": "img/full/G1.jpg",
+   "group": "G",
+   "groupName": "标签贴纸拼贴",
+   "date": "2026-10-27",
+   "title": "一切顺遂"
+  },
+  {
    "id": "F8",
    "thumb": "img/thumb/F8.webp",
    "file": "img/full/F8.jpg",
@@ -434,5 +722,5 @@
    "title": "金色柴犬抱月亮"
   }
  ],
- "updated": "2026-10-27T16:11:08"
+ "updated": "2026-10-27T16:40:12"
 }
