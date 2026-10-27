@@ -1,0 +1,6 @@
+__pycache__/
+shots/
+shoot.py
+build_initial.py
+add_daily.py
+README.md

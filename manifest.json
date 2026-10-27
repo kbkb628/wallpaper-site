@@ -1,0 +1,222 @@
+{
+ "site": "每日壁纸库",
+ "items": [
+  {
+   "id": "C8",
+   "thumb": "img/thumb/C8.webp",
+   "file": "img/full/C8.jpg",
+   "group": "C",
+   "groupName": "治愈风景",
+   "date": "2026-10-27",
+   "title": "热带海岸"
+  },
+  {
+   "id": "B8",
+   "thumb": "img/thumb/B8.webp",
+   "file": "img/full/B8.jpg",
+   "group": "B",
+   "groupName": "梦幻花卉",
+   "date": "2026-10-27",
+   "title": "天鹅睡莲湖"
+  },
+  {
+   "id": "A8",
+   "thumb": "img/thumb/A8.webp",
+   "file": "img/full/A8.jpg",
+   "group": "A",
+   "groupName": "深色萌宠",
+   "date": "2026-10-27",
+   "title": "彩虹宝石黑猫"
+  },
+  {
+   "id": "C7",
+   "thumb": "img/thumb/C7.webp",
+   "file": "img/full/C7.jpg",
+   "group": "C",
+   "groupName": "治愈风景",
+   "date": "2026-10-26",
+   "title": "雪山晨雾湖"
+  },
+  {
+   "id": "B7",
+   "thumb": "img/thumb/B7.webp",
+   "file": "img/full/B7.jpg",
+   "group": "B",
+   "groupName": "梦幻花卉",
+   "date": "2026-10-26",
+   "title": "樱桃蝴蝶结"
+  },
+  {
+   "id": "A7",
+   "thumb": "img/thumb/A7.webp",
+   "file": "img/full/A7.jpg",
+   "group": "A",
+   "groupName": "深色萌宠",
+   "date": "2026-10-26",
+   "title": "冰蓝极光企鹅"
+  },
+  {
+   "id": "C6",
+   "thumb": "img/thumb/C6.webp",
+   "file": "img/full/C6.jpg",
+   "group": "C",
+   "groupName": "治愈风景",
+   "date": "2026-10-25",
+   "title": "彩虹湖与小船"
+  },
+  {
+   "id": "B6",
+   "thumb": "img/thumb/B6.webp",
+   "file": "img/full/B6.jpg",
+   "group": "B",
+   "groupName": "梦幻花卉",
+   "date": "2026-10-25",
+   "title": "薄荷白铃兰"
+  },
+  {
+   "id": "A6",
+   "thumb": "img/thumb/A6.webp",
+   "file": "img/full/A6.jpg",
+   "group": "A",
+   "groupName": "深色萌宠",
+   "date": "2026-10-25",
+   "title": "红金兔子灯笼"
+  },
+  {
+   "id": "C5",
+   "thumb": "img/thumb/C5.webp",
+   "file": "img/full/C5.jpg",
+   "group": "C",
+   "groupName": "治愈风景",
+   "date": "2026-10-24",
+   "title": "草坡孤树"
+  },
+  {
+   "id": "B5",
+   "thumb": "img/thumb/B5.webp",
+   "file": "img/full/B5.jpg",
+   "group": "B",
+   "groupName": "梦幻花卉",
+   "date": "2026-10-24",
+   "title": "粉蓝牡丹郁金香"
+  },
+  {
+   "id": "A5",
+   "thumb": "img/thumb/A5.webp",
+   "file": "img/full/A5.jpg",
+   "group": "A",
+   "groupName": "深色萌宠",
+   "date": "2026-10-24",
+   "title": "极光花田小狗"
+  },
+  {
+   "id": "C4",
+   "thumb": "img/thumb/C4.webp",
+   "file": "img/full/C4.jpg",
+   "group": "C",
+   "groupName": "治愈风景",
+   "date": "2026-10-23",
+   "title": "海边灯塔"
+  },
+  {
+   "id": "B4",
+   "thumb": "img/thumb/B4.webp",
+   "file": "img/full/B4.jpg",
+   "group": "B",
+   "groupName": "梦幻花卉",
+   "date": "2026-10-23",
+   "title": "暮色绣球花"
+  },
+  {
+   "id": "A4",
+   "thumb": "img/thumb/A4.webp",
+   "file": "img/full/A4.jpg",
+   "group": "A",
+   "groupName": "深色萌宠",
+   "date": "2026-10-23",
+   "title": "紫青星云太空猫"
+  },
+  {
+   "id": "C3",
+   "thumb": "img/thumb/C3.webp",
+   "file": "img/full/C3.jpg",
+   "group": "C",
+   "groupName": "治愈风景",
+   "date": "2026-10-22",
+   "title": "极光湖畔"
+  },
+  {
+   "id": "B3",
+   "thumb": "img/thumb/B3.webp",
+   "file": "img/full/B3.jpg",
+   "group": "B",
+   "groupName": "梦幻花卉",
+   "date": "2026-10-22",
+   "title": "花园气球"
+  },
+  {
+   "id": "A3",
+   "thumb": "img/thumb/A3.webp",
+   "file": "img/full/A3.jpg",
+   "group": "A",
+   "groupName": "深色萌宠",
+   "date": "2026-10-22",
+   "title": "翡翠森林小熊猫"
+  },
+  {
+   "id": "C2",
+   "thumb": "img/thumb/C2.webp",
+   "file": "img/full/C2.jpg",
+   "group": "C",
+   "groupName": "治愈风景",
+   "date": "2026-10-21",
+   "title": "云上远山"
+  },
+  {
+   "id": "B2",
+   "thumb": "img/thumb/B2.webp",
+   "file": "img/full/B2.jpg",
+   "group": "B",
+   "groupName": "梦幻花卉",
+   "date": "2026-10-21",
+   "title": "樱花月夜"
+  },
+  {
+   "id": "A2",
+   "thumb": "img/thumb/A2.webp",
+   "file": "img/full/A2.jpg",
+   "group": "A",
+   "groupName": "深色萌宠",
+   "date": "2026-10-21",
+   "title": "粉紫小猫与牡丹"
+  },
+  {
+   "id": "C1",
+   "thumb": "img/thumb/C1.webp",
+   "file": "img/full/C1.jpg",
+   "group": "C",
+   "groupName": "治愈风景",
+   "date": "2026-10-20",
+   "title": "海上日出"
+  },
+  {
+   "id": "B1",
+   "thumb": "img/thumb/B1.webp",
+   "file": "img/full/B1.jpg",
+   "group": "B",
+   "groupName": "梦幻花卉",
+   "date": "2026-10-20",
+   "title": "玫瑰蝴蝶结"
+  },
+  {
+   "id": "A1",
+   "thumb": "img/thumb/A1.webp",
+   "file": "img/full/A1.jpg",
+   "group": "A",
+   "groupName": "深色萌宠",
+   "date": "2026-10-20",
+   "title": "金色柴犬抱月亮"
+  }
+ ],
+ "updated": "2026-10-27T09:28:50"
+}
