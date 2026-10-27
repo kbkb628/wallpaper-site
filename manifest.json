@@ -2,6 +2,78 @@
  "site": "每日壁纸库",
  "items": [
   {
+   "id": "F8",
+   "thumb": "img/thumb/F8.webp",
+   "file": "img/full/F8.jpg",
+   "group": "F",
+   "groupName": "红金吉祥大字",
+   "date": "2026-10-27",
+   "title": "万事如意"
+  },
+  {
+   "id": "F7",
+   "thumb": "img/thumb/F7.webp",
+   "file": "img/full/F7.jpg",
+   "group": "F",
+   "groupName": "红金吉祥大字",
+   "date": "2026-10-27",
+   "title": "大吉大利"
+  },
+  {
+   "id": "F6",
+   "thumb": "img/thumb/F6.webp",
+   "file": "img/full/F6.jpg",
+   "group": "F",
+   "groupName": "红金吉祥大字",
+   "date": "2026-10-27",
+   "title": "好运"
+  },
+  {
+   "id": "F5",
+   "thumb": "img/thumb/F5.webp",
+   "file": "img/full/F5.jpg",
+   "group": "F",
+   "groupName": "红金吉祥大字",
+   "date": "2026-10-27",
+   "title": "福"
+  },
+  {
+   "id": "F4",
+   "thumb": "img/thumb/F4.webp",
+   "file": "img/full/F4.jpg",
+   "group": "F",
+   "groupName": "红金吉祥大字",
+   "date": "2026-10-27",
+   "title": "发财"
+  },
+  {
+   "id": "F3",
+   "thumb": "img/thumb/F3.webp",
+   "file": "img/full/F3.jpg",
+   "group": "F",
+   "groupName": "红金吉祥大字",
+   "date": "2026-10-27",
+   "title": "福禄安康"
+  },
+  {
+   "id": "F2",
+   "thumb": "img/thumb/F2.webp",
+   "file": "img/full/F2.jpg",
+   "group": "F",
+   "groupName": "红金吉祥大字",
+   "date": "2026-10-27",
+   "title": "越来越好"
+  },
+  {
+   "id": "F1",
+   "thumb": "img/thumb/F1.webp",
+   "file": "img/full/F1.jpg",
+   "group": "F",
+   "groupName": "红金吉祥大字",
+   "date": "2026-10-27",
+   "title": "平安"
+  },
+  {
    "id": "E8",
    "thumb": "img/thumb/E8.webp",
    "file": "img/full/E8.jpg",
@@ -362,5 +434,5 @@
    "title": "金色柴犬抱月亮"
   }
  ],
- "updated": "2026-10-27T15:38:36"
+ "updated": "2026-10-27T16:11:08"
 }
