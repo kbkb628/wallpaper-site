@@ -2,6 +2,78 @@
  "site": "每日壁纸库",
  "items": [
   {
+   "id": "D8",
+   "thumb": "img/thumb/D8.webp",
+   "file": "img/full/D8.jpg",
+   "group": "D",
+   "groupName": "毛笔书法·多元素",
+   "date": "2026-10-27",
+   "title": "好运"
+  },
+  {
+   "id": "D7",
+   "thumb": "img/thumb/D7.webp",
+   "file": "img/full/D7.jpg",
+   "group": "D",
+   "groupName": "毛笔书法·多元素",
+   "date": "2026-10-27",
+   "title": "当下"
+  },
+  {
+   "id": "D6",
+   "thumb": "img/thumb/D6.webp",
+   "file": "img/full/D6.jpg",
+   "group": "D",
+   "groupName": "毛笔书法·多元素",
+   "date": "2026-10-27",
+   "title": "平安喜乐"
+  },
+  {
+   "id": "D5",
+   "thumb": "img/thumb/D5.webp",
+   "file": "img/full/D5.jpg",
+   "group": "D",
+   "groupName": "毛笔书法·多元素",
+   "date": "2026-10-27",
+   "title": "知足常乐"
+  },
+  {
+   "id": "D4",
+   "thumb": "img/thumb/D4.webp",
+   "file": "img/full/D4.jpg",
+   "group": "D",
+   "groupName": "毛笔书法·多元素",
+   "date": "2026-10-27",
+   "title": "多挣钱少生气"
+  },
+  {
+   "id": "D3",
+   "thumb": "img/thumb/D3.webp",
+   "file": "img/full/D3.jpg",
+   "group": "D",
+   "groupName": "毛笔书法·多元素",
+   "date": "2026-10-27",
+   "title": "万事皆成"
+  },
+  {
+   "id": "D2",
+   "thumb": "img/thumb/D2.webp",
+   "file": "img/full/D2.jpg",
+   "group": "D",
+   "groupName": "毛笔书法·多元素",
+   "date": "2026-10-27",
+   "title": "静"
+  },
+  {
+   "id": "D1",
+   "thumb": "img/thumb/D1.webp",
+   "file": "img/full/D1.jpg",
+   "group": "D",
+   "groupName": "毛笔书法·多元素",
+   "date": "2026-10-27",
+   "title": "心宽福至"
+  },
+  {
    "id": "C8",
    "thumb": "img/thumb/C8.webp",
    "file": "img/full/C8.jpg",
@@ -218,5 +290,5 @@
    "title": "金色柴犬抱月亮"
   }
  ],
- "updated": "2026-10-27T09:28:50"
+ "updated": "2026-10-27T14:52:24"
 }
