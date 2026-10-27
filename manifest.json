@@ -2,6 +2,78 @@
  "site": "每日壁纸库",
  "items": [
   {
+   "id": "E8",
+   "thumb": "img/thumb/E8.webp",
+   "file": "img/full/E8.jpg",
+   "group": "E",
+   "groupName": "毛笔书法·简约",
+   "date": "2026-10-27",
+   "title": "福"
+  },
+  {
+   "id": "E7",
+   "thumb": "img/thumb/E7.webp",
+   "file": "img/full/E7.jpg",
+   "group": "E",
+   "groupName": "毛笔书法·简约",
+   "date": "2026-10-27",
+   "title": "好运"
+  },
+  {
+   "id": "E6",
+   "thumb": "img/thumb/E6.webp",
+   "file": "img/full/E6.jpg",
+   "group": "E",
+   "groupName": "毛笔书法·简约",
+   "date": "2026-10-27",
+   "title": "知足常乐"
+  },
+  {
+   "id": "E5",
+   "thumb": "img/thumb/E5.webp",
+   "file": "img/full/E5.jpg",
+   "group": "E",
+   "groupName": "毛笔书法·简约",
+   "date": "2026-10-27",
+   "title": "心宽福至"
+  },
+  {
+   "id": "E4",
+   "thumb": "img/thumb/E4.webp",
+   "file": "img/full/E4.jpg",
+   "group": "E",
+   "groupName": "毛笔书法·简约",
+   "date": "2026-10-27",
+   "title": "谨言慎行"
+  },
+  {
+   "id": "E3",
+   "thumb": "img/thumb/E3.webp",
+   "file": "img/full/E3.jpg",
+   "group": "E",
+   "groupName": "毛笔书法·简约",
+   "date": "2026-10-27",
+   "title": "平安"
+  },
+  {
+   "id": "E2",
+   "thumb": "img/thumb/E2.webp",
+   "file": "img/full/E2.jpg",
+   "group": "E",
+   "groupName": "毛笔书法·简约",
+   "date": "2026-10-27",
+   "title": "静心"
+  },
+  {
+   "id": "E1",
+   "thumb": "img/thumb/E1.webp",
+   "file": "img/full/E1.jpg",
+   "group": "E",
+   "groupName": "毛笔书法·简约",
+   "date": "2026-10-27",
+   "title": "克己慎独"
+  },
+  {
    "id": "D8",
    "thumb": "img/thumb/D8.webp",
    "file": "img/full/D8.jpg",
@@ -290,5 +362,5 @@
    "title": "金色柴犬抱月亮"
   }
  ],
- "updated": "2026-10-27T14:52:24"
+ "updated": "2026-10-27T15:38:36"
 }
